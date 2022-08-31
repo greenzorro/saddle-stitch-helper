@@ -1,6 +1,6 @@
 # saddle-stitch-helper
 
-A Photoshop scripts to convert separately designed single pages to saddle-stitch. It finds every two proper pages and makes them one, in a printing-friendly sequence.
+A Photoshop script to convert separately designed single pages to saddle-stitch. It finds every two proper pages and makes them one, in a printing-friendly sequence.
 
 Watch the example video below:
 
