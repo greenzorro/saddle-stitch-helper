@@ -17,7 +17,7 @@ jpgSaveOptions.formatOptions = FormatOptions.STANDARDBASELINE;
 jpgSaveOptions.matte = MatteType.NONE;
 jpgSaveOptions.quality = 12;
 
-alert("单页文件必须按顺序命名，尺寸相同，否则不保证转换结果。");
+alert("单页文件必须按阅读顺序命名，尺寸相同，否则不保证转换结果。");
 if(importNum%4!=0){
 	alert("骑马钉P数必须是4的倍数");
 } else {
