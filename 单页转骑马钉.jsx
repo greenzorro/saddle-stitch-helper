@@ -3,7 +3,10 @@ app.bringToFront();
 
 var importFolder = Folder.selectDialog("请选择单页所在文件夹");
 var importFiles = importFolder.getFiles();
-importFiles.shift();
+// remove folders in the Array
+while(importFiles[0].name.indexOf(".")<0){
+	importFiles.shift();
+}
 var importNum = importFiles.length;
 var exportNum = importNum/2;
 var exportFiles = new Array();
