@@ -25,3 +25,7 @@ https://github.com/user-attachments/assets/887a60a7-6aba-4d93-b5bf-00dce38f1cc7
 https://github.com/user-attachments/assets/00f79249-5cee-40a9-9108-886c96899573
 
 内附单页示例和最终PDF成品。直接下载ZIP试试吧。
+
+---
+
+由 [Victor_42](https://victor42.work/) 创造
