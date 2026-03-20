@@ -28,4 +28,4 @@ https://github.com/user-attachments/assets/00f79249-5cee-40a9-9108-886c96899573
 
 ---
 
-由 [Victor_42](https://victor42.work/) 创造
+Created by [Victor42](https://victor42.work/)
